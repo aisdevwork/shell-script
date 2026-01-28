@@ -9,5 +9,11 @@ echo "Current user running the script $USER"
 echo "Present Working Directory $PWD"
 echo "Current user Home directory $HOME"
 
+echo "First item : $1"
+echo "Second item: $2"
+echo "All items  : $@"
+echo "Count      : $#"
+
+
 
 
