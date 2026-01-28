@@ -5,3 +5,4 @@ MOVIES=("FEEL" "GOOD" "MOVIES" "FEELSGREAT")
  echo "Third Movie : ${MOVIES[2]}"
   
  echo "All Movies : ${MOVIES[@]}"
+ echo "count : ${#MOVIES[@]}"
