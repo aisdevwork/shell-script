@@ -5,6 +5,5 @@
     echo "Error : Have sudo access to execute"
     exit 1
 fi
-  dnf install mysql -y
+  dnf install mysqlllu -y
   dnf install git -y
-  
