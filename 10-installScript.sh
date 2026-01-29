@@ -7,3 +7,4 @@ fi
 
 dnf install mmmysql -y
 dnf install git -y
+
